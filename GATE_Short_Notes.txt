@@ -1,0 +1,2 @@
+Operating Systems Summary.
+Virtual memory provides an illusion of a very large memory. Paging maps virtual addresses to physical page frames.
